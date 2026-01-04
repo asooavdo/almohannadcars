@@ -56,17 +56,17 @@ const HeroSection = () => {
         {/* Stats */}
         <div style={{
         animationDelay: '400ms'
-      }} className="animate-fade-up grid grid-cols-3 gap-4 md:gap-8 max-w-2xl mx-auto pt-8 border-t border-border/30 mt-[61px] ml-0 mr-0 mb-[18px]">
+      }} className="animate-fade-up grid grid-cols-3 gap-4 md:gap-8 max-w-2xl mx-auto border-t border-border/30 pt-0 ml-[83px] mr-[92px] py-0 mt-0 mb-0">
           <div className="text-center">
-            <div className="text-3xl md:text-4xl font-bold text-primary">+500</div>
+            <div className="text-3xl md:text-4xl font-bold text-primary">+366</div>
             <div className="text-sm text-muted-foreground mt-1">سيارة تم بيعها</div>
           </div>
-          <div className="text-center">
-            <div className="text-3xl md:text-4xl font-bold text-primary">+15</div>
+          <div className="text-center bg-black/0">
+            <div className="text-3xl md:text-4xl font-bold text-primary">+18</div>
             <div className="text-sm text-muted-foreground mt-1">سنة خبرة</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl md:text-4xl font-bold text-primary">100%</div>
+            <div className="text-3xl md:text-4xl font-bold text-primary">​98%</div>
             <div className="text-sm text-muted-foreground mt-1">رضا العملاء</div>
           </div>
         </div>

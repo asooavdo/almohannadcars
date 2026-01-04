@@ -126,7 +126,7 @@ const VehiclesSection = () => {
       <div className="container mx-auto px-4 lg:px-8">
         {/* Section Header */}
         <div className="text-center mb-16">
-          <span className="inline-block text-primary text-sm font-semibold tracking-wider mb-3">
+          <span className="inline-block text-primary font-semibold tracking-wider mb-3 text-xl">
             تشكيلتنا المميزة
           </span>
           <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-4">
